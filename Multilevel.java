@@ -1,3 +1,5 @@
+// Multilevel Inheritance : In this a derived class will be inheriting a base class and as well as the derived class 
+//			    also act as a base class to other class	
 class Animal{
  void eat(){
   System.out.println("Eating");
