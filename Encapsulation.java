@@ -28,6 +28,6 @@ class En {
     en.setName("Arush")  ;
     en.setAge(22);
     en.setId(1);
-    System.out.println("Name is : "+getName()+"Age is : "+getAge()+"Id is : "+getId());
+    System.out.println("Name is: "+en.getName()+"Age is : "+en.getAge()+"Id is : "+en.getId());
   }
 }
